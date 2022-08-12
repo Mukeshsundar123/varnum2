@@ -1,0 +1,3 @@
+var num : Int
+num = 32
+print(num)
